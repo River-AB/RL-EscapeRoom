@@ -2,7 +2,7 @@
 
 ## Important: Required Libraries for Running: pygame, numpy, pandas, matplotlib
 
-In addition, recordings of rooms 1-3.
+[In addition, recordings of rooms 1-3.](https://drive.google.com/file/d/1y35IOVfNC3u4EAr5YaBeZice1di9FXD1/view?usp=drive_link)
 
 ## Installation and Running the Game:
 
